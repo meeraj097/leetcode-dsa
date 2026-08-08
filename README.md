@@ -8,11 +8,13 @@ Daily leetcode dsa problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/meeraj097/leetcode-dsa/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meeraj097/leetcode-dsa/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -39,6 +41,7 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
@@ -48,4 +51,16 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
