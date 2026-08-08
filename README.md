@@ -11,12 +11,14 @@ Daily leetcode dsa problems and solutions
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/meeraj097/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meeraj097/leetcode-dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/meeraj097/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -69,4 +71,8 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/meeraj097/leetcode-dsa/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/meeraj097/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
