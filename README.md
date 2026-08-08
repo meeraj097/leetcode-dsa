@@ -7,6 +7,7 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meeraj097/leetcode-dsa/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ Daily leetcode dsa problems and solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -36,5 +38,14 @@ Daily leetcode dsa problems and solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
