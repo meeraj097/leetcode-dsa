@@ -25,6 +25,7 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/meeraj097/leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/meeraj097/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/meeraj097/leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/meeraj097/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
