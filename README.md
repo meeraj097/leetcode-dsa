@@ -7,6 +7,7 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meeraj097/leetcode-dsa/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/meeraj097/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/meeraj097/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
@@ -76,4 +77,12 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/meeraj097/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/meeraj097/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/meeraj097/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
