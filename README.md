@@ -11,6 +11,7 @@ Daily leetcode dsa problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meeraj097/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/meeraj097/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/meeraj097/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/meeraj097/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/meeraj097/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/meeraj097/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
 | ------- |
