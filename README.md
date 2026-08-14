@@ -9,6 +9,7 @@ Daily leetcode dsa problems and solutions
 | [0001-two-sum](https://github.com/meeraj097/leetcode-dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/meeraj097/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meeraj097/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/meeraj097/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/meeraj097/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meeraj097/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +44,7 @@ Daily leetcode dsa problems and solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meeraj097/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meeraj097/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/meeraj097/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/meeraj097/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
