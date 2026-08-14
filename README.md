@@ -16,6 +16,7 @@ Daily leetcode dsa problems and solutions
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/meeraj097/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/meeraj097/leetcode-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/meeraj097/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Daily leetcode dsa problems and solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meeraj097/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/meeraj097/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,4 +120,8 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meeraj097/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/meeraj097/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
