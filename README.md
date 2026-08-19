@@ -10,6 +10,7 @@ Daily leetcode dsa problems and solutions
 | [0014-longest-common-prefix](https://github.com/meeraj097/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meeraj097/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/meeraj097/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/meeraj097/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/meeraj097/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/meeraj097/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/meeraj097/leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/meeraj097/leetcode-dsa/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -137,5 +139,6 @@ Daily leetcode dsa problems and solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/meeraj097/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/meeraj097/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
