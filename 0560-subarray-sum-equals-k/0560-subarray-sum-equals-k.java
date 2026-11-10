@@ -1,31 +1,24 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-
         int n= nums.length;
 
-        int c=0;
+       int max= 0;
 
-        int[] s=new int[n+1];
-
-        s[0]=0;
-
-        for(int i=1;i<=n;i++)
+       for(int i=0;i<n;i++)
+       {
+        int sum = 0;
+        for(int j=i;j<n;j++)
         {
-            s[i]=s[i-1]+nums[i-1];
-
-        }
-            for(int j=0;j<s.length;j++)
+            sum += nums[j];
+        
+            if(sum == k)
             {
-                for(int p=j+1;p<s.length;p++)
-                {
-                    if(s[p] - s[j] == k)
-                    {
-                        c++;
-                    }
-                }
+                
+                max++;
             }
+        }
         
-        return c;
-        
+       }
+       return max;
     }
 }
