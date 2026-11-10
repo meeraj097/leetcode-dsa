@@ -18,6 +18,7 @@ Daily leetcode dsa problems and solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meeraj097/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/meeraj097/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/meeraj097/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/meeraj097/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/meeraj097/leetcode-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -29,6 +30,7 @@ Daily leetcode dsa problems and solutions
 | [0073-set-matrix-zeroes](https://github.com/meeraj097/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/meeraj097/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/meeraj097/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/meeraj097/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -64,6 +66,7 @@ Daily leetcode dsa problems and solutions
 | ------- |
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/meeraj097/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
@@ -82,10 +85,12 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/meeraj097/leetcode-dsa/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/meeraj097/leetcode-dsa/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
