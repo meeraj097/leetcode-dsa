@@ -10,6 +10,7 @@ Daily leetcode dsa problems and solutions
 | [0014-longest-common-prefix](https://github.com/meeraj097/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meeraj097/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/meeraj097/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/meeraj097/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/meeraj097/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/meeraj097/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/meeraj097/leetcode-dsa/tree/master/0054-spiral-matrix) |
@@ -60,6 +61,7 @@ Daily leetcode dsa problems and solutions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/meeraj097/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
