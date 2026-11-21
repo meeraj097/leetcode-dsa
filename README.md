@@ -18,6 +18,7 @@ Daily leetcode dsa problems and solutions
 | [0075-sort-colors](https://github.com/meeraj097/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meeraj097/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/meeraj097/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/meeraj097/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/meeraj097/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/meeraj097/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -62,6 +63,7 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/meeraj097/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/meeraj097/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/meeraj097/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
