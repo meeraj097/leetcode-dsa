@@ -157,4 +157,5 @@ Daily leetcode dsa problems and solutions
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/meeraj097/leetcode-dsa/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/meeraj097/leetcode-dsa/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
