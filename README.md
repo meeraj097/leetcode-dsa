@@ -159,4 +159,5 @@ Daily leetcode dsa problems and solutions
 | [0176-second-highest-salary](https://github.com/meeraj097/leetcode-dsa/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/meeraj097/leetcode-dsa/tree/master/0184-department-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/meeraj097/leetcode-dsa/tree/master/0596-classes-with-at-least-5-students) |
+| [0607-sales-person](https://github.com/meeraj097/leetcode-dsa/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
