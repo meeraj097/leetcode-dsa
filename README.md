@@ -160,4 +160,5 @@ Daily leetcode dsa problems and solutions
 | [0184-department-highest-salary](https://github.com/meeraj097/leetcode-dsa/tree/master/0184-department-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/meeraj097/leetcode-dsa/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/meeraj097/leetcode-dsa/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/meeraj097/leetcode-dsa/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
