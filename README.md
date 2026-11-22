@@ -153,4 +153,8 @@ Daily leetcode dsa problems and solutions
 | [0048-rotate-image](https://github.com/meeraj097/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meeraj097/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/meeraj097/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/meeraj097/leetcode-dsa/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
